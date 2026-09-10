@@ -7,7 +7,7 @@ class Solution {
         }
         for(int num:nums2){
             if(set.contains(num)){
-            result.add(num);
+                result.add(num);
             }
         }
         int[] arr=new int[result.size()];
