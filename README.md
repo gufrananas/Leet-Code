@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gufrananas/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gufrananas/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gufrananas/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gufrananas/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gufrananas/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gufrananas/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -36,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/gufrananas/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/gufrananas/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
