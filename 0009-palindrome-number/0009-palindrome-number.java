@@ -3,16 +3,13 @@ class Solution {
         if(x<0){
             return false;
         }
-        String s=String.valueOf(x);
-        int l=0;
-        int r=s.length()-1;
-        while(l<r){
-            if(s.charAt(l)!=s.charAt(r)){
-                return false;
-            }
-            l++;
-            r--;
+        int org=x;
+        int rev=0;
+        while(x>0){
+            int digit=x%10;
+            rev=rev*10+digit;
+            x=x/10;
         }
-        return true;
+        return org==rev;
     }
 }
