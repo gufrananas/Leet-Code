@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/gufrananas/Leet-Code/tree/master/0009-palindrome-number) |
 | [3871-count-commas-in-range-ii](https://github.com/gufrananas/Leet-Code/tree/master/3871-count-commas-in-range-ii) |
 ## Array
 |  |
