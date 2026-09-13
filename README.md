@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gufrananas/Leet-Code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gufrananas/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/gufrananas/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/gufrananas/Leet-Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/gufrananas/Leet-Code/tree/master/0217-contains-duplicate) |
@@ -57,10 +58,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gufrananas/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/gufrananas/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0804-unique-morse-code-words](https://github.com/gufrananas/Leet-Code/tree/master/0804-unique-morse-code-words) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/gufrananas/Leet-Code/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gufrananas/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
