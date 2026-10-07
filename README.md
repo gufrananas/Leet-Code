@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/gufrananas/Leet-Code/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/gufrananas/Leet-Code/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/gufrananas/Leet-Code/tree/master/0367-valid-perfect-square) |
+| [2469-convert-the-temperature](https://github.com/gufrananas/Leet-Code/tree/master/2469-convert-the-temperature) |
 | [3871-count-commas-in-range-ii](https://github.com/gufrananas/Leet-Code/tree/master/3871-count-commas-in-range-ii) |
 ## Array
 |  |
