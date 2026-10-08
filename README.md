@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/gufrananas/Leet-Code/tree/master/0704-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/gufrananas/Leet-Code/tree/master/0804-unique-morse-code-words) |
 | [1480-running-sum-of-1d-array](https://github.com/gufrananas/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/gufrananas/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/gufrananas/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gufrananas/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/gufrananas/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/gufrananas/Leet-Code/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
