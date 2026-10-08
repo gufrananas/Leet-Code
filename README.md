@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/gufrananas/Leet-Code/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/gufrananas/Leet-Code/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/gufrananas/Leet-Code/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/gufrananas/Leet-Code/tree/master/0412-fizz-buzz) |
 | [2469-convert-the-temperature](https://github.com/gufrananas/Leet-Code/tree/master/2469-convert-the-temperature) |
 | [3871-count-commas-in-range-ii](https://github.com/gufrananas/Leet-Code/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gufrananas/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/gufrananas/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/gufrananas/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0804-unique-morse-code-words](https://github.com/gufrananas/Leet-Code/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/gufrananas/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 ## Floyd's Cycle Finding Algorithm
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/gufrananas/Leet-Code/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/gufrananas/Leet-Code/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
