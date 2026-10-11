@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gufrananas/Leet-Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/gufrananas/Leet-Code/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/gufrananas/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/gufrananas/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gufrananas/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/gufrananas/Leet-Code/tree/master/0704-binary-search) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gufrananas/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gufrananas/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/gufrananas/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/gufrananas/Leet-Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/gufrananas/Leet-Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/gufrananas/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gufrananas/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/gufrananas/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gufrananas/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -111,4 +114,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/gufrananas/Leet-Code/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gufrananas/Leet-Code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gufrananas/Leet-Code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gufrananas/Leet-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
