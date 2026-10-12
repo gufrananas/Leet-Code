@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gufrananas/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/gufrananas/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/gufrananas/Leet-Code/tree/master/0412-fizz-buzz) |
+| [0583-delete-operation-for-two-strings](https://github.com/gufrananas/Leet-Code/tree/master/0583-delete-operation-for-two-strings) |
 | [0804-unique-morse-code-words](https://github.com/gufrananas/Leet-Code/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/gufrananas/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 ## Floyd's Cycle Finding Algorithm
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gufrananas/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/gufrananas/Leet-Code/tree/master/0583-delete-operation-for-two-strings) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/gufrananas/Leet-Code/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
