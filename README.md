@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/gufrananas/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0804-unique-morse-code-words](https://github.com/gufrananas/Leet-Code/tree/master/0804-unique-morse-code-words) |
+| [1189-maximum-number-of-balloons](https://github.com/gufrananas/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gufrananas/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gufrananas/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/gufrananas/Leet-Code/tree/master/0583-delete-operation-for-two-strings) |
 | [0804-unique-morse-code-words](https://github.com/gufrananas/Leet-Code/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/gufrananas/Leet-Code/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/gufrananas/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gufrananas/Leet-Code/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/gufrananas/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/gufrananas/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
