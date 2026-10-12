@@ -1,15 +1,12 @@
 class Solution {
     public int firstUniqChar(String s) {
-
+        HashMap<Character,Integer> set=new HashMap<>();
         for(int i=0;i<s.length();i++){
-            boolean unique=true;
-            for(int j=0;j<s.length();j++){
-                if(i!=j && s.charAt(i)==s.charAt(j)){
-                    unique=false;
-                    break;
-                }
-            }
-            if(unique){
+            char ch=s.charAt(i);
+            set.put(ch,set.getOrDefault(ch,0)+1);
+        }
+        for(int i=0;i<s.length();i++){
+            if(set.get(s.charAt(i))==1){
                 return i;
             }
         }
