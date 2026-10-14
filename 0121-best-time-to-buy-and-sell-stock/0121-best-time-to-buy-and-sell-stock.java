@@ -3,9 +3,15 @@ class Solution {
         int maxp=0;
         int minp=Integer.MAX_VALUE;
         for(int i=0;i<prices.length;i++){
-            minp=Math.min(minp,prices[i]);
+            //minp=Math.min(minp,prices[i]);
+            if(prices[i]<minp){
+                minp=prices[i];
+            }
             int p=prices[i]-minp;
-            maxp=Math.max(maxp,p);
+            //maxp=Math.max(maxp,p);
+            if(p>maxp){
+                maxp=p;
+            }
         }
     return maxp;
     }
