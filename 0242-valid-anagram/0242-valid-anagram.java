@@ -1,6 +1,6 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        String ans="";
+        //String ans="";
         if(s.length()!=t.length()){
             return false;
         }
