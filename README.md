@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gufrananas/Leet-Code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gufrananas/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1768-merge-strings-alternately](https://github.com/gufrananas/Leet-Code/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/gufrananas/Leet-Code/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/gufrananas/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/gufrananas/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
+| [1768-merge-strings-alternately](https://github.com/gufrananas/Leet-Code/tree/master/1768-merge-strings-alternately) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
