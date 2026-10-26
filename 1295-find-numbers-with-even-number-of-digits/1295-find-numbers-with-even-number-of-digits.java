@@ -7,7 +7,6 @@ class Solution {
             if(digits%2==0){
                 max++;
             }
-            //max=Math.max(max,count);
         }
         return max;
     }
