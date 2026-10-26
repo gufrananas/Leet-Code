@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gufrananas/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/gufrananas/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/gufrananas/Leet-Code/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gufrananas/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/gufrananas/Leet-Code/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/gufrananas/Leet-Code/tree/master/2469-convert-the-temperature) |
 | [3871-count-commas-in-range-ii](https://github.com/gufrananas/Leet-Code/tree/master/3871-count-commas-in-range-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/gufrananas/Leet-Code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/gufrananas/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/gufrananas/Leet-Code/tree/master/0804-unique-morse-code-words) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gufrananas/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/gufrananas/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/gufrananas/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/gufrananas/Leet-Code/tree/master/1929-concatenation-of-array) |
