@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gufrananas/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/gufrananas/Leet-Code/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/gufrananas/Leet-Code/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/gufrananas/Leet-Code/tree/master/2652-sum-multiples) |
 | [3871-count-commas-in-range-ii](https://github.com/gufrananas/Leet-Code/tree/master/3871-count-commas-in-range-ii) |
 ## Array
 |  |
