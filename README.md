@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/gufrananas/Leet-Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/gufrananas/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gufrananas/Leet-Code/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/gufrananas/Leet-Code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/gufrananas/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/gufrananas/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/gufrananas/Leet-Code/tree/master/0412-fizz-buzz) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/gufrananas/Leet-Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/gufrananas/Leet-Code/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/gufrananas/Leet-Code/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gufrananas/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gufrananas/Leet-Code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
