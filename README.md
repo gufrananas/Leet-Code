@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/gufrananas/Leet-Code/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/gufrananas/Leet-Code/tree/master/2652-sum-multiples) |
 | [3871-count-commas-in-range-ii](https://github.com/gufrananas/Leet-Code/tree/master/3871-count-commas-in-range-ii) |
+| [3945-digit-frequency-score](https://github.com/gufrananas/Leet-Code/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gufrananas/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gufrananas/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3945-digit-frequency-score](https://github.com/gufrananas/Leet-Code/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
