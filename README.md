@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/gufrananas/Leet-Code/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/gufrananas/Leet-Code/tree/master/2652-sum-multiples) |
 | [3871-count-commas-in-range-ii](https://github.com/gufrananas/Leet-Code/tree/master/3871-count-commas-in-range-ii) |
+| [3894-traffic-signal-color](https://github.com/gufrananas/Leet-Code/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/gufrananas/Leet-Code/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/gufrananas/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1678-goal-parser-interpretation](https://github.com/gufrananas/Leet-Code/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/gufrananas/Leet-Code/tree/master/1768-merge-strings-alternately) |
+| [3894-traffic-signal-color](https://github.com/gufrananas/Leet-Code/tree/master/3894-traffic-signal-color) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/gufrananas/Leet-Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/gufrananas/Leet-Code/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/gufrananas/Leet-Code/tree/master/1929-concatenation-of-array) |
+| [3894-traffic-signal-color](https://github.com/gufrananas/Leet-Code/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
 |  |
 | ------- |
