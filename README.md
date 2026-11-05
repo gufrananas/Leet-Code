@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/gufrananas/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/gufrananas/Leet-Code/tree/master/0804-unique-morse-code-words) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gufrananas/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/gufrananas/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/gufrananas/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/gufrananas/Leet-Code/tree/master/1732-find-the-highest-altitude) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gufrananas/Leet-Code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gufrananas/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/gufrananas/Leet-Code/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gufrananas/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gufrananas/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gufrananas/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/gufrananas/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/gufrananas/Leet-Code/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gufrananas/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |
