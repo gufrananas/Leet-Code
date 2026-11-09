@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/gufrananas/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/gufrananas/Leet-Code/tree/master/1768-merge-strings-alternately) |
+| [3794-reverse-string-prefix](https://github.com/gufrananas/Leet-Code/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/gufrananas/Leet-Code/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/gufrananas/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gufrananas/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3794-reverse-string-prefix](https://github.com/gufrananas/Leet-Code/tree/master/3794-reverse-string-prefix) |
 | [3894-traffic-signal-color](https://github.com/gufrananas/Leet-Code/tree/master/3894-traffic-signal-color) |
 ## Floyd's Cycle Finding Algorithm
 |  |
