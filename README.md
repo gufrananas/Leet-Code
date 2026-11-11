@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gufrananas/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gufrananas/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/gufrananas/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/gufrananas/Leet-Code/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/gufrananas/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/gufrananas/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/gufrananas/Leet-Code/tree/master/1929-concatenation-of-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/gufrananas/Leet-Code/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/gufrananas/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/gufrananas/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
+| [1528-shuffle-string](https://github.com/gufrananas/Leet-Code/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/gufrananas/Leet-Code/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/gufrananas/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gufrananas/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
